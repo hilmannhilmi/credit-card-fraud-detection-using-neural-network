@@ -12,9 +12,8 @@ Credit card fraud poses a significant threat to both financial institutions and 
 
 ### Data Splitting:
 The data is split into training and testing sets to train and evaluate the model's performance.
-Neural Network Architecture:
 
-### Model Architecture
+### Neural Network Architecture:
 - We create a deep neural network using the Keras library.
 - The architecture includes multiple layers of densely connected neurons.
 - Dropout layers are included to prevent overfitting.
